@@ -1,0 +1,6 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/ram/miniforge3/envs/cookiecutter-personal
